@@ -58,5 +58,8 @@ This is NotePad Android Application.
     String dateTime = format.format(date);
     values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, dateTime);
 #### 运行结果截图如下：
+
+<img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/21.png"/>
+
 ### （二）添加笔记查询功能（根据标题查询）
 
