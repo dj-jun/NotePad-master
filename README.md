@@ -601,16 +601,3 @@ This is NotePad Android Application.
 <img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/10.png"/>
 
 <img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/11.png"/>
-
-### （四）笔记排序
-#### 运行结果截图如下
-
-<img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/12.png"/>
-
-#### 1.按创建时间排序
-
-<img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/13.png"/>
-
-#### 2.按颜色排序
-
-<img width="200" src="https://github.com/dj-jun/NotePad-master/blob/master/pictures/15.png"/>
